@@ -55,9 +55,3 @@ html,body {
   border-radius: 10px;
   background: inherit;
 }
-.wrapper span:first-child {
-  filter: blur(7px);
-}
-.wrapper span:last-child {
-  filter: blur(20px);
-}
